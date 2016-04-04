@@ -1,0 +1,16 @@
+{
+  "name": "oauth-twitter-example",
+  "version": "1.0.0",
+  "description": "Example of using OAuth1 (by ciaranj) to authenticate and get access tokens for a newly signed up user.",
+  "main": "twitter-oauth.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "oauth": "^0.9.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "author": "Oleg Zdornyy",
+  "license": "ISC"
+}
